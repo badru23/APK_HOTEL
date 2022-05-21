@@ -1,0 +1,13 @@
+.jumbotron{
+    background-image: url('../img/bg.jpg');
+    height: 40vw;
+    border-radius: 0px 0px 20px 20px;
+    padding: 0px;
+
+  }
+
+.card{
+  margin: 530px 250px 0px 250px ; 
+  border-radius: 15px;
+}
+
